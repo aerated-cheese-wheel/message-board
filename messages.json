@@ -1,0 +1,29 @@
+[
+    {
+        "id": "690426d8ef4ec",
+        "user": "ADMIN",
+        "ip": "NONE",
+        "time": "0:00",
+        "text": "This is a test post",
+        "upvotes": 100000000000,
+        "downvotes": -9999999999
+    },
+    {
+        "id": "69042894e3a6d",
+        "user": "ADMIN",
+        "ip": "NONE",
+        "time": "0:00",
+        "text": "Welcome to the MeSSage Board! this is a free, php hosted website with:\r\n*Random Usernames*, \r\n*Upvotes and Downvotes*,\r\n*Markdown*, \r\n*and timestamps!*\r\n**Have fun!**",
+        "upvotes": 2,
+        "downvotes": null
+    },
+    {
+        "id": "690428c28c183",
+        "user": "4F4E2678",
+        "ip": "::1",
+        "time": "2025-10-31 03:10:58",
+        "text": "**bold**\r\n*italic*\r\n`code`",
+        "upvotes": 0,
+        "downvotes": 0
+    }
+]
